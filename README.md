@@ -6,7 +6,7 @@ Einsendeaufgaben für das Modul "Graphical Visualisation Technologies". Ziel des
 
 Implementieren Sie eine sich drehende 2D-Scheibe aus Einzelbildern, welche Sie mit JavaScript laden und in einem <img> Image-Element zeigen (nicht im Canvas). Die Einzelbilder sollen, ähnlich wie bei einer Sprite-Sheet-Animation ode einem Animationsfilm, so ausgetauscht und eingeblendet werden, dass visuell der Eindruck einer Rotation entsteht. Auf jedem Einzelbild ist ein Rotationszustand der Scheibe zu sehen, z. B.: 0°, 15°, 30°,...
 
-// nicht mehr da
+[// nicht mehr da](https://lenkuep.github.io/THB-Graphical_Visualisation_Technologies/EA1/)
 
 ## EA 2 - 2D Geometrie aus Linien
 
