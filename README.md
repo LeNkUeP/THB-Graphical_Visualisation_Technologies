@@ -2,6 +2,8 @@
 
 Einsendeaufgaben für das Modul "Graphical Visualisation Technologies". Ziel des Moduls war es ein Grundverständnis für 3D-Visualisierungen, primär für webbasierte Anwendungen, aufzubauen.
 
+![](/StartPage/main.gif)
+
 ## EA 1 - Interaktiv animierte Scheibe
 
 Implementieren Sie eine sich drehende 2D-Scheibe aus Einzelbildern, welche Sie mit JavaScript laden und in einem <img> Image-Element zeigen (nicht im Canvas). Die Einzelbilder sollen, ähnlich wie bei einer Sprite-Sheet-Animation ode einem Animationsfilm, so ausgetauscht und eingeblendet werden, dass visuell der Eindruck einer Rotation entsteht. Auf jedem Einzelbild ist ein Rotationszustand der Scheibe zu sehen, z. B.: 0°, 15°, 30°,...
