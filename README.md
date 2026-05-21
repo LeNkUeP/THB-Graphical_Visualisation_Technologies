@@ -1,4 +1,4 @@
-# thb-gvt-ea
+# THB-Graphical_Visualisation_Technologies Einsendeaufgaben
 
 Einsendeaufgaben für das Modul "Graphical Visualisation Technologies". Ziel des Moduls war es ein Grundverständnis für 3D-Visualisierungen, primär für webbasierte Anwendungen, aufzubauen.
 
